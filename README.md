@@ -1,6 +1,6 @@
 # CAN Visualizer
 
-A real-time CAN bus visualizer and message sender built using Qt and QML.
+A real-time CAN bus visualizer and message sender built using Qt,  QML and C++.
 This desktop tool communicates with an ESP32 microcontroller over UART, allowing you to monitor incoming CAN messages and send outgoing ones in a structured, human-readable UI.
 
 ## 🔧 Features
@@ -23,7 +23,7 @@ Built as a side project to:
 - Serve as a lightweight **debugging interface** during firmware development
 
 ## 🧠 Tech Stack
-- **Qt 5.15+ / Qt 6**
+- **Qt 6.9.1+ / Qt 6**
 - **QML** for frontend layout and styling
 - **C++** for backend logic and serial port handling
 - **ESP32** as the CAN message simulator
