@@ -14,6 +14,7 @@ This desktop tool communicates with an ESP32 microcontroller over UART, allowing
 <p align="center">
   <img src="previews/preview.png" alt="CAN Visualizer UI" width="600"/>
 </p>
+
 ## 💡 Why This Exists
 
 Built as a side project to:
