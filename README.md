@@ -34,13 +34,6 @@ Built as a side project to:
 - Qt (with Qt Creator)
 - ESP32 flashed with the [firmware](./firmware)
 
-### Run
-```bash
-# Open the project in Qt Creator
-# or build and run manually:
-qmake && make && ./CAN_Visualizer
-```
-
 ## 🧪 Firmware Format (ESP32)
 The ESP32 is expected to send messages over UART using this format:
 
